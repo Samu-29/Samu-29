@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://Samiksha_Gaikwad.io)
+[![MasterHead](https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif)](https://Samiksha_Gaikwad.io)
 <h1 align="center">Hi 👋, I'm Samiksha Gaikwad</h1>
 <h3 align="center">I am a data science student, currently in my final year of graduation at Government College of Engineering, Yavatmal.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samu-29&label=Profile%20views&color=0e75b6&style=flat" alt="samu-29" /> </p>
 
