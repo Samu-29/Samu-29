@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Samu-29.io)
+[![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://Samiksha_Gaikwad.io)
 <h1 align="center">Hi 👋, I'm Samiksha Gaikwad</h1>
 <h3 align="center">I am a data science student, currently in my final year of graduation at Government College of Engineering, Yavatmal.</h3>
-img align="right" alt="Coding" width="400" src="[https://cdnl.iconscout.com/lottie/premium/preview-watermark/analytics-3574389-3099614.mp4?h=700](https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header)"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samu-29&label=Profile%20views&color=0e75b6&style=flat" alt="samu-29" /> </p>
 
